@@ -1,0 +1,9 @@
+{
+	"w" : "settings01",
+	"y" : "settings01",
+	"z" : ["a","b","c"],
+	"key" : {
+		"key2" : "value2",
+		"key3" : "value3"
+	}
+}

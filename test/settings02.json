@@ -1,0 +1,9 @@
+/*
+ * Settings for
+ *
+ */
+{
+	"w" : "settings02",
+	"y" : "settings02",
+	"z" : ["a","b","c","d"]
+}
